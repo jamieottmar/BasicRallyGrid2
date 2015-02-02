@@ -4,3 +4,36 @@ CurrentProject=Rally Grid App.vpj
 Rally Grid App.vpj=20150129193838711
 [ActiveConfig]
 Rally Grid App.vpj=Debug
+[TreeExpansion2]
+-@ Rally Grid App.vpj
+  + deploy
+scroll:0
+[State]
+SCREEN: 1920 1080 960 0 944 980 0 0 N 0 0 0 0 914 848 0
+CWD: ..\BasicRallyGrid2
+BUFFER: BN="App.js"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=JavaScript	HM=0 MF=53609312 TL=0 MLL=0 ASE=0 LNL=1 LCF=6 CAPS=0 E=0 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.3173 CL=1 LE=0 CX=1 CY=27 WI=5 BI=15 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 22 912 825 0 0 N  WF=0 WT=2 ",,," DID=0
+BUFFER: BN="App.js"
+VIEW: LN=.973 CL=57 LE=0 CX=62 CY=21 WI=152 BI=15 HT=0 HN=0 HF=0 HC=4
+MDISTATE: 1
+AAAAAAAAAAHaAAAAAAAAADcAAAOvAAADveoAAAAC+gAAAAEAAAABAAAAAPoAAAABAAAAAQAAAAD8AAAAeAAyADoAOgA6AEMAOgBcAFUAcwBlAHIAcwBcAGoAbwAzADQANQAxADcAXABEAG8AYwB1AG0AZQBuAHQAcwBcAEcAaQB0AEgAdQBiAFwAQgBhAHMAaQBjAFIAYQBsAGwAeQBHAHIAaQBkADIAXABBAHAAcAAuAGoAcwEA/////wAB
+FILEHIST: 9
+\Projects\Spearhead Projects\Spearhead Motor Control - 4.21\Code\Application\app\BSPConfig.cpp
+\Projects\Spearhead Projects\Spearhead Motor Control - 4.21\Code\Application\app\InverterTemperatureWrapper.c
+\Projects\Spearhead Projects\Spearhead Motor Control - 4.21\Code\Application\app\CANMessages.c
+\Projects\Spearhead Projects\Spearhead Motor Control - 4.21\Code\Application\parameters\ConfigInterface.h
+\Projects\Spearhead Projects\Spearhead Motor Control - 4.21\Code\Application\app\ParameterNVM.h
+App-debug.html
+config.json
+app.css
+App.js
+TBCLASS: 0 0
+DEBUG: 0 0 0 0 5 0 jdwp
+java.*
+javax.*
+com.sun.*
+com.ibm.*
+sun.*
+DEBUG2: 0
